@@ -1,0 +1,45 @@
+/* Reset */
+nav {
+	padding: 0;
+	margin: 0;
+}
+
+
+body {
+	font-family: Verdana;
+	background-color: #C2E0FF;
+	background-image: url("../images/logo.png");
+	background-repeat: no-repeat;
+	background-position: right top;
+	margin-right: 200px;
+}
+
+input[type="submit"] {
+	margin-top: 10px;
+}
+
+section {
+	clear: both;
+}
+
+/* Navigation */
+.menu {
+	margin-left: -35px;
+}
+
+.menu li {
+	float: left;
+	list-style: none;
+	margin-bottom: 30px;
+	padding-right: 10px;
+}
+
+/* ETC */
+.fout,.fouten {
+	color: red;
+	font-weight: bold;
+}
+
+.bold {
+	font-weight: bold;
+}
